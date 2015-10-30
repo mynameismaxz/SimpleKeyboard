@@ -1,0 +1,55 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/mynameismaxz/Desktop/MAC's Working/AndroidApp/SimpleKeyboard/app/src/main/AndroidManifest.xml:1:1-28:12
+	xmlns:android
+		ADDED from /Users/mynameismaxz/Desktop/MAC's Working/AndroidApp/SimpleKeyboard/app/src/main/AndroidManifest.xml:1:11-69
+	package
+		ADDED from /Users/mynameismaxz/Desktop/MAC's Working/AndroidApp/SimpleKeyboard/app/src/main/AndroidManifest.xml:2:5-39
+		INJECTED from /Users/mynameismaxz/Desktop/MAC's Working/AndroidApp/SimpleKeyboard/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mynameismaxz/Desktop/MAC's Working/AndroidApp/SimpleKeyboard/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/mynameismaxz/Desktop/MAC's Working/AndroidApp/SimpleKeyboard/app/src/main/AndroidManifest.xml:4:5-30
+	android:versionCode
+		ADDED from /Users/mynameismaxz/Desktop/MAC's Working/AndroidApp/SimpleKeyboard/app/src/main/AndroidManifest.xml:3:5-28
+		INJECTED from /Users/mynameismaxz/Desktop/MAC's Working/AndroidApp/SimpleKeyboard/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mynameismaxz/Desktop/MAC's Working/AndroidApp/SimpleKeyboard/app/src/main/AndroidManifest.xml
+uses-sdk
+ADDED from /Users/mynameismaxz/Desktop/MAC's Working/AndroidApp/SimpleKeyboard/app/src/main/AndroidManifest.xml:6:5-8:41
+	android:targetSdkVersion
+		ADDED from /Users/mynameismaxz/Desktop/MAC's Working/AndroidApp/SimpleKeyboard/app/src/main/AndroidManifest.xml:8:9-38
+		INJECTED from /Users/mynameismaxz/Desktop/MAC's Working/AndroidApp/SimpleKeyboard/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mynameismaxz/Desktop/MAC's Working/AndroidApp/SimpleKeyboard/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/mynameismaxz/Desktop/MAC's Working/AndroidApp/SimpleKeyboard/app/src/main/AndroidManifest.xml:7:9-34
+		INJECTED from /Users/mynameismaxz/Desktop/MAC's Working/AndroidApp/SimpleKeyboard/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mynameismaxz/Desktop/MAC's Working/AndroidApp/SimpleKeyboard/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/mynameismaxz/Desktop/MAC's Working/AndroidApp/SimpleKeyboard/app/src/main/AndroidManifest.xml:10:5-26:19
+	android:label
+		ADDED from /Users/mynameismaxz/Desktop/MAC's Working/AndroidApp/SimpleKeyboard/app/src/main/AndroidManifest.xml:13:9-41
+	android:allowBackup
+		ADDED from /Users/mynameismaxz/Desktop/MAC's Working/AndroidApp/SimpleKeyboard/app/src/main/AndroidManifest.xml:11:9-35
+	android:icon
+		ADDED from /Users/mynameismaxz/Desktop/MAC's Working/AndroidApp/SimpleKeyboard/app/src/main/AndroidManifest.xml:12:9-45
+	android:theme
+		ADDED from /Users/mynameismaxz/Desktop/MAC's Working/AndroidApp/SimpleKeyboard/app/src/main/AndroidManifest.xml:14:9-40
+service#com.hathy.simplekeyboard.SimpleIME
+ADDED from /Users/mynameismaxz/Desktop/MAC's Working/AndroidApp/SimpleKeyboard/app/src/main/AndroidManifest.xml:16:9-24:19
+	android:label
+		ADDED from /Users/mynameismaxz/Desktop/MAC's Working/AndroidApp/SimpleKeyboard/app/src/main/AndroidManifest.xml:17:13-47
+	android:permission
+		ADDED from /Users/mynameismaxz/Desktop/MAC's Working/AndroidApp/SimpleKeyboard/app/src/main/AndroidManifest.xml:18:13-70
+	android:name
+		ADDED from /Users/mynameismaxz/Desktop/MAC's Working/AndroidApp/SimpleKeyboard/app/src/main/AndroidManifest.xml:16:18-43
+meta-data#android.view.im
+ADDED from /Users/mynameismaxz/Desktop/MAC's Working/AndroidApp/SimpleKeyboard/app/src/main/AndroidManifest.xml:20:13-87
+	android:resource
+		ADDED from /Users/mynameismaxz/Desktop/MAC's Working/AndroidApp/SimpleKeyboard/app/src/main/AndroidManifest.xml:20:55-85
+	android:name
+		ADDED from /Users/mynameismaxz/Desktop/MAC's Working/AndroidApp/SimpleKeyboard/app/src/main/AndroidManifest.xml:20:24-54
+intent-filter#android.view.InputMethod
+ADDED from /Users/mynameismaxz/Desktop/MAC's Working/AndroidApp/SimpleKeyboard/app/src/main/AndroidManifest.xml:21:13-23:29
+action#android.view.InputMethod
+ADDED from /Users/mynameismaxz/Desktop/MAC's Working/AndroidApp/SimpleKeyboard/app/src/main/AndroidManifest.xml:22:17-67
+	android:name
+		ADDED from /Users/mynameismaxz/Desktop/MAC's Working/AndroidApp/SimpleKeyboard/app/src/main/AndroidManifest.xml:22:25-64
